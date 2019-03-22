@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "905003501750",
+    "firebase_url": "https://programming3-comment-board.firebaseio.com",
+    "project_id": "programming3-comment-board",
+    "storage_bucket": "programming3-comment-board.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905003501750:android:77d4729ba2c98a59",
+        "android_client_info": {
+          "package_name": "com.example.android.locationbasedcomment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905003501750-qe1350pfvr5kbg68osea80jbs27jhgrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.locationbasedcomment",
+            "certificate_hash": "65d7af9fa32ccea7625a26664d2882cc86c2118d"
+          }
+        },
+        {
+          "client_id": "905003501750-vnrkavnre14ajfr3u5gdc7cditgn5vim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdfpbNTG5gaOORH0yxulmY2XTt7Kb9KA0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905003501750-vnrkavnre14ajfr3u5gdc7cditgn5vim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
